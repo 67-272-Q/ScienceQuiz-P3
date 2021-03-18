@@ -60,7 +60,7 @@ Again, if you have questions regarding this project, please post them on Piazza 
 
 **Checkpoints for this phase**:
 
-- _Checkpoint 1:_ The `OrganizationsController` and `HomeController` must be written and passing their tests by **Tuesday, March 25th**.
+- _Checkpoint 1:_ The `OrganizationsController` and `HomeController` must be written and passing their tests by **Thursday, March 25th**.
 
 - _Checkpoint 2:_ The `StudentsController`, `TeamsController `, and `StudentTeamsController` (only part 1 required) and must be written and passing their tests by **Sunday, March 30th**.
 
