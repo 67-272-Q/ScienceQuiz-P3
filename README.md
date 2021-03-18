@@ -1,5 +1,6 @@
 67-272: ScienceQuiz App
 ===
+Please use the Github classroom link for submission : https://classroom.github.com/assignment-invitations/141f2845d4b50b600b87045ee7742aae
 
 This code is for the ScienceQuiz project assigned to Information Systems students at Carnegie Mellon University in 67-272 during the Spring 2021 semester.  More information about this project can be found on Canvas (Assignments > Phase 3).
 
